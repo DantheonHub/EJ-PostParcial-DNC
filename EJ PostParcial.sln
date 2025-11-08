@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ PostParcial", "EJ PostParcial\EJ PostParcial.csproj", "{D215C861-8363-4ADD-BD84-0F0ED6CFF7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D215C861-8363-4ADD-BD84-0F0ED6CFF7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D215C861-8363-4ADD-BD84-0F0ED6CFF7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D215C861-8363-4ADD-BD84-0F0ED6CFF7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D215C861-8363-4ADD-BD84-0F0ED6CFF7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCC65E1-D615-47BD-ABD6-879301665B15}
+	EndGlobalSection
+EndGlobal
